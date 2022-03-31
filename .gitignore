@@ -1,0 +1,4 @@
+dist
+node_modules
+src/secret.ts
+package-lock.json
